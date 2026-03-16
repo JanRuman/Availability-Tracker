@@ -122,6 +122,9 @@
       td.booked {
         background: rgba(214, 69, 69, 0.2);
       }
+      td.retro {
+        box-shadow: inset 0 0 0 2px rgba(255, 153, 0, 0.9);
+      }
       .cell {
         display: grid;
         gap: 4px;
@@ -144,6 +147,10 @@
         color: #ffffff;
         border-color: rgba(214, 69, 69, 0.9);
         background: rgba(214, 69, 69, 0.9);
+      }
+      .badge.retro {
+        border-color: #ff9800;
+        background: #ff9800;
       }
       .price {
         font-size: 11px;
@@ -197,7 +204,8 @@
       <div id="months" class="grid"></div>
 
       <div class="footerNote">
-        Green = free, red = booked. Prices are shown as scraped from the source site.
+        Green = free, red = booked. Orange outline = past date that changed after the fact (we keep the original
+        status). Prices are shown as scraped from the source site.
       </div>
     </div>
 

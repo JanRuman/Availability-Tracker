@@ -113,6 +113,7 @@ function buildMonthGrid(y, m, dayMap, rangeFrom, rangeTo) {
         let badge = `<span class="badge">no data</span>`;
         let price = "";
         let tdClass = "";
+        let retro = false;
         if (entry && inRange) {
           if (entry.status === "available") {
             badge = `<span class="badge ok">free</span>`;
@@ -121,9 +122,20 @@ function buildMonthGrid(y, m, dayMap, rangeFrom, rangeTo) {
             badge = `<span class="badge bad">booked</span>`;
             tdClass = "booked";
           }
+          if (entry.attempted_change) {
+            retro = true;
+          }
           if (entry.price_eur != null) price = `<div class="price">${entry.price_eur} EUR</div>`;
         }
         if (tdClass) td.classList.add(tdClass);
+        if (retro) {
+          td.classList.add("retro");
+          // upgrade badge to retro color while keeping the text (free/booked)
+          badge = badge.replace('class="badge ', 'class="badge retro ');
+          if (!badge.includes('class="badge retro')) {
+            badge = badge.replace('class="badge"', 'class="badge retro"');
+          }
+        }
         td.innerHTML = `<div class="cell"><div>${day}</div>${badge}${price}</div>`;
         day++;
       }
