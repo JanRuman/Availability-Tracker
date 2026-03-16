@@ -34,15 +34,16 @@ jobs:
         run: |
           python -m scrape.run
 
-      - name: Commit updated snapshots
-        run: |
-          if git diff --quiet; then
-            echo "No changes to commit."
-            exit 0
-          fi
-          git add data
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -m "chore: daily availability snapshot"
-          git push
+ - name: Commit updated snapshots
+  run: |
+    git add -A data
 
+    if git diff --cached --quiet; then
+      echo "No changes to commit."
+      exit 0
+    fi
+
+    git config user.name "github-actions[bot]"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git commit -m "chore: daily availability snapshot"
+    git push
