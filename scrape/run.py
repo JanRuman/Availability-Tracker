@@ -86,6 +86,7 @@ def run() -> Path:
     apartments_by_id: dict[str, dict] = {}
     for spath in all_snapshot_paths:
         data = json.loads(spath.read_text(encoding="utf-8"))
+        snap_run_date = data.get("run_date") or spath.stem
         for apt in data.get("apartments", []):
             apt_id = str(apt.get("id"))
             entry = apartments_by_id.setdefault(
@@ -107,12 +108,36 @@ def run() -> Path:
                 dkey = day.get("date")
                 if not dkey:
                     continue
-                # Later snapshots overwrite earlier ones for the same date.
-                entry["days"][dkey] = {
-                    "date": dkey,
-                    "status": day.get("status", "unavailable"),
-                    "price_eur": day.get("price_eur"),  # may be None
-                }
+
+                new_status = day.get("status", "unavailable")
+                new_price = day.get("price_eur")
+
+                existing = entry["days"].get(dkey)
+                if existing is None:
+                    # First time we see this date: just store it.
+                    entry["days"][dkey] = {
+                        "date": dkey,
+                        "status": new_status,
+                        "price_eur": new_price,
+                        "attempted_change": False,
+                    }
+                    continue
+
+                # If this snapshot is for today or a future date relative to the day,
+                # allow the new data to overwrite the previous one.
+                if dkey >= snap_run_date:
+                    entry["days"][dkey] = {
+                        "date": dkey,
+                        "status": new_status,
+                        "price_eur": new_price,
+                        "attempted_change": existing.get("attempted_change", False),
+                    }
+                    continue
+
+                # Past date relative to this snapshot's run_date.
+                # If status or price changed, keep the original values but mark attempted_change.
+                if existing["status"] != new_status or existing.get("price_eur") != new_price:
+                    existing["attempted_change"] = True
 
     aggregated = {
         "run_date": run_date,
