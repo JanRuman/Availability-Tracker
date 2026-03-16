@@ -97,12 +97,13 @@
       }
       table {
         width: 100%;
-        border-collapse: collapse;
+        border-collapse: separate;
+        border-spacing: 0;
         table-layout: fixed;
       }
       th,
       td {
-        border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+        border-bottom: none;
         padding: 8px 6px;
         vertical-align: top;
       }
@@ -116,11 +117,10 @@
         height: 54px;
       }
       td.free {
-        outline: 1px solid rgba(31, 157, 85, 0.6);
+        background: rgba(31, 157, 85, 0.18);
       }
       td.booked {
-        outline: 1px solid rgba(214, 69, 69, 0.6);
-        background: rgba(214, 69, 69, 0.08);
+        background: rgba(214, 69, 69, 0.2);
       }
       .cell {
         display: grid;
