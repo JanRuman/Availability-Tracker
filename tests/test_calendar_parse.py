@@ -32,3 +32,26 @@ def test_parse_calendar_days_basic_availability():
     assert by_date["2026-03-15"].status == "unavailable"
     assert by_date["2026-03-15"].price_eur is None
 
+
+def test_parse_calendar_days_startdate_treated_as_booked():
+    html = """
+    <html>
+      <body>
+        <div class="mb-day selectable fsp startdate" data-date="22.05.2026" data-number="1">
+          <span>22</span><span>100 EUR</span>
+        </div>
+        <div class="mb-day nonselectable unavailable" data-date="23.05.2026" data-number="2">
+          <span>23</span><span>100 EUR</span>
+        </div>
+      </body>
+    </html>
+    """
+    days = parse_calendar_days(html)
+    by_date = {d.date: d for d in days}
+
+    assert by_date["2026-05-22"].status == "unavailable"
+    assert by_date["2026-05-22"].price_eur == 100
+
+    assert by_date["2026-05-23"].status == "unavailable"
+    assert by_date["2026-05-23"].price_eur == 100
+
