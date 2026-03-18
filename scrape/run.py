@@ -135,8 +135,9 @@ def run() -> Path:
                     continue
 
                 # Past date relative to this snapshot's run_date.
-                # If status or price changed, keep the original values but mark attempted_change.
-                if existing["status"] != new_status or existing.get("price_eur") != new_price:
+                # If STATUS changed, keep the original values but mark attempted_change.
+                # (Ignore price-only changes to avoid false alarms.)
+                if existing["status"] != new_status:
                     existing["attempted_change"] = True
 
     aggregated = {

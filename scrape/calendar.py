@@ -106,7 +106,9 @@ def _parse_from_mb_day_divs(soup: BeautifulSoup) -> list[DayAvailability]:
                 price_eur = int(m_price.group(1))
                 break
 
-        if {"nonselectable", "unavailable"} & cls:
+        # Some days are visually "half booked" (arrival day) and still look selectable in the UI,
+        # but they should be treated as booked/unavailable. These appear with class `startdate`.
+        if {"nonselectable", "unavailable", "startdate"} & cls:
             status = "unavailable"
         elif "selectable" in cls:
             status = "available"
