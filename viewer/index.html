@@ -194,9 +194,10 @@
             <input id="to" type="date" />
           </div>
         </div>
-        <div style="margin-top: 10px; display: grid; grid-template-columns: 1fr 1fr; gap: 10px">
+        <div style="margin-top: 10px; display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px">
           <button id="apply">Apply</button>
           <button id="reset">Reset range</button>
+          <button id="export">Export Excel</button>
         </div>
         <div id="error" class="error" style="display: none"></div>
       </div>
@@ -209,7 +210,8 @@
       </div>
     </div>
 
-    <script src="./app.js?v=2"></script>
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
+    <script src="./app.js?v=3"></script>
   </body>
 </html>
 

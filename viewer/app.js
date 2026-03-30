@@ -1,4 +1,5 @@
 const DATA_ROOT = "../data";
+let currentSnapshot = null;
 
 function $(id) {
   return document.getElementById(id);
@@ -201,12 +202,14 @@ async function init() {
   }
 
   const snap = await loadSnapshot("latest");
+  currentSnapshot = snap;
   await populateApartmentsAndRender(snap);
 
   $("apply").addEventListener("click", async () => {
     try {
       showError("");
       const snap2 = await loadSnapshot(snapshotSel.value);
+      currentSnapshot = snap2;
       await populateApartmentsAndRender(snap2, { preserveSelection: true });
     } catch (e) {
       showError(String(e));
@@ -217,6 +220,7 @@ async function init() {
     try {
       showError("");
       const snap2 = await loadSnapshot(snapshotSel.value);
+      currentSnapshot = snap2;
       await populateApartmentsAndRender(snap2, { preserveSelection: true, resetRange: true });
     } catch (e) {
       showError(String(e));
@@ -284,6 +288,75 @@ function renderMonths(snapshot, apt, rangeFrom, rangeTo) {
     monthsEl.appendChild(buildMonthGrid(y, m, dayMap, from, to));
   }
 }
+
+function exportExcel() {
+  if (!currentSnapshot) {
+    showError("No data loaded yet.");
+    return;
+  }
+
+  const rangeFrom = $("from").value;
+  const rangeTo = $("to").value;
+
+  const rows = [];
+  let totalBookedDays = 0;
+  let totalEur = 0;
+
+  for (const apt of currentSnapshot.apartments || []) {
+    let bookedDays = 0;
+    let sumEur = 0;
+
+    for (const day of apt.days || []) {
+      if (rangeFrom && compareIso(day.date, rangeFrom) < 0) continue;
+      if (rangeTo && compareIso(day.date, rangeTo) > 0) continue;
+      if (day.status === "unavailable") {
+        bookedDays++;
+        if (day.price_eur != null) sumEur += day.price_eur;
+      }
+    }
+
+    rows.push({
+      "Apartment ID": apt.id,
+      "Apartment Name": apt.name,
+      "Booked Days": bookedDays,
+      "Total EUR": sumEur,
+    });
+
+    totalBookedDays += bookedDays;
+    totalEur += sumEur;
+  }
+
+  rows.push({
+    "Apartment ID": "",
+    "Apartment Name": "TOTAL",
+    "Booked Days": totalBookedDays,
+    "Total EUR": totalEur,
+  });
+
+  const ws = XLSX.utils.json_to_sheet(rows);
+
+  ws["!cols"] = [
+    { wch: 14 },
+    { wch: 36 },
+    { wch: 14 },
+    { wch: 14 },
+  ];
+
+  const wb = XLSX.utils.book_new();
+  XLSX.utils.book_append_sheet(wb, ws, "Booked Days");
+
+  const filename = `booked_${rangeFrom || "all"}_${rangeTo || "all"}.xlsx`;
+  XLSX.writeFile(wb, filename);
+}
+
+$("export").addEventListener("click", () => {
+  try {
+    showError("");
+    exportExcel();
+  } catch (e) {
+    showError(String(e));
+  }
+});
 
 init().catch((e) => showError(String(e)));
 
