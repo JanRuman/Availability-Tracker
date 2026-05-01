@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-04-30",
+  "run_date": "2026-05-01",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -376,7 +376,7 @@
         {
           "date": "2026-05-01",
           "status": "unavailable",
-          "price_eur": 85,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -1287,6 +1287,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -2581,6 +2767,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -3872,6 +4244,192 @@
           "status": "available",
           "price_eur": 109,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -5160,6 +5718,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -6454,6 +7198,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -7742,6 +8672,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -9036,6 +10152,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -10327,6 +11629,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -10703,8 +12191,8 @@
         },
         {
           "date": "2026-05-01",
-          "status": "unavailable",
-          "price_eur": 85,
+          "status": "available",
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -11615,6 +13103,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -12909,6 +14583,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -13286,7 +15146,7 @@
         {
           "date": "2026-05-01",
           "status": "unavailable",
-          "price_eur": 85,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -13609,13 +15469,13 @@
         },
         {
           "date": "2026-06-24",
-          "status": "unavailable",
-          "price_eur": null,
+          "status": "available",
+          "price_eur": 100,
           "attempted_change": false
         },
         {
           "date": "2026-06-25",
-          "status": "unavailable",
+          "status": "available",
           "price_eur": 100,
           "attempted_change": false
         },
@@ -14199,6 +16059,192 @@
           "date": "2026-09-30",
           "status": "available",
           "price_eur": 100,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
           "attempted_change": false
         }
       ]
@@ -15488,6 +17534,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -16782,6 +19014,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -18070,6 +20488,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -19364,6 +21968,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -20655,6 +23445,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -21032,7 +24008,7 @@
         {
           "date": "2026-05-01",
           "status": "unavailable",
-          "price_eur": 210,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -21943,6 +24919,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -23237,6 +26399,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -24525,6 +27873,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -25819,6 +29353,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -27107,6 +30827,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -28401,6 +32307,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -29689,6 +33781,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -30983,6 +35261,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -31359,8 +35823,8 @@
         },
         {
           "date": "2026-05-01",
-          "status": "unavailable",
-          "price_eur": 100,
+          "status": "available",
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -32271,6 +36735,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
@@ -33565,6 +38215,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -33942,7 +38778,7 @@
         {
           "date": "2026-05-01",
           "status": "unavailable",
-          "price_eur": 120,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -34853,6 +39689,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "unavailable",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "unavailable",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "unavailable",
           "price_eur": 0,
           "attempted_change": false
@@ -36147,6 +41169,192 @@
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
         }
       ]
     },
@@ -37435,6 +42643,192 @@
         },
         {
           "date": "2026-09-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-01",
+          "status": "available",
+          "price_eur": null,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-02",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-03",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-04",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-05",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-06",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-07",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-08",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-09",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-10",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-11",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-12",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-13",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-14",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-15",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-16",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-17",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-18",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-19",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-20",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-21",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-22",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-23",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-24",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-25",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-26",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-27",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-28",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-29",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-30",
+          "status": "available",
+          "price_eur": 0,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-10-31",
           "status": "available",
           "price_eur": 0,
           "attempted_change": false
