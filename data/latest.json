@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-05-26",
+  "run_date": "2026-05-27",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -14232,19 +14232,19 @@
         },
         {
           "date": "2026-08-03",
-          "status": "available",
-          "price_eur": 119,
-          "attempted_change": false
-        },
-        {
-          "date": "2026-08-04",
           "status": "unavailable",
           "price_eur": null,
           "attempted_change": false
         },
         {
-          "date": "2026-08-05",
+          "date": "2026-08-04",
           "status": "unavailable",
+          "price_eur": 119,
+          "attempted_change": false
+        },
+        {
+          "date": "2026-08-05",
+          "status": "available",
           "price_eur": 119,
           "attempted_change": false
         },
@@ -17108,26 +17108,26 @@
         },
         {
           "date": "2026-07-21",
-          "status": "available",
-          "price_eur": 119,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-07-22",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 119,
           "attempted_change": false
         },
         {
           "date": "2026-07-23",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 119,
           "attempted_change": false
         },
         {
           "date": "2026-07-24",
           "status": "unavailable",
-          "price_eur": null,
+          "price_eur": 119,
           "attempted_change": false
         },
         {
@@ -30083,13 +30083,13 @@
         },
         {
           "date": "2026-05-29",
-          "status": "unavailable",
-          "price_eur": null,
+          "status": "available",
+          "price_eur": 80,
           "attempted_change": false
         },
         {
           "date": "2026-05-30",
-          "status": "unavailable",
+          "status": "available",
           "price_eur": 80,
           "attempted_change": false
         },
