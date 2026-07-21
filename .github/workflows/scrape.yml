@@ -5,6 +5,8 @@ on:
   schedule:
     # daily at 03:30 UTC
     - cron: "30 3 * * *"
+    # daily at 20:00 CEST / 19:00 CET (fixed UTC offset, no DST adjustment)
+    - cron: "0 18 * * *"
 
 permissions:
   contents: write
@@ -31,6 +33,9 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run scraper
+        env:
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
         run: |
           python -m scrape.run
 

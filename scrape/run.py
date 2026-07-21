@@ -12,11 +12,17 @@ from bs4 import BeautifulSoup
 from .apartments import discover_apartments
 from .calendar import parse_calendar_days
 from .http_client import HttpClient
+from .notify import find_newly_blocked_dates, send_email
 
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 SNAPSHOT_DIR = DATA_DIR / "snapshots"
+
+# Site's internal id for "1-spálňový apartmán 39" (the unit number in the
+# apartment name doesn't match the scraper's id, which comes from the URL).
+NOTIFY_APARTMENT_ID = "24"
+NOTIFY_TO_ADDR = "ruman.ffi@gmail.com"
 
 
 def _safe_mkdir(p: Path) -> None:
@@ -38,7 +44,29 @@ def _extract_apartment_name(html: str, fallback: str) -> str:
     return fallback
 
 
+def _load_previous_apartment_days(apt_id: str) -> dict[str, str] | None:
+    """
+    Returns {date: status} for the given apartment from the latest.json
+    written by the previous run, or None if there is no previous run yet.
+    """
+    latest_path = DATA_DIR / "latest.json"
+    if not latest_path.exists():
+        return None
+    try:
+        data = json.loads(latest_path.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, OSError):
+        return None
+    for apt in data.get("apartments", []):
+        if str(apt.get("id")) == apt_id:
+            return {d["date"]: d["status"] for d in apt.get("days", []) if d.get("date")}
+    return None
+
+
 def run() -> Path:
+    # Snapshot the previous run's state for the apartment we notify on,
+    # before anything below overwrites latest.json.
+    previous_notify_days = _load_previous_apartment_days(NOTIFY_APARTMENT_ID)
+
     client = HttpClient()
     apartments = discover_apartments(client)
 
@@ -156,6 +184,28 @@ def run() -> Path:
                 "days": days_list,
             }
         )
+
+    if previous_notify_days is not None:
+        notify_apt = next(
+            (a for a in aggregated["apartments"] if a["id"] == NOTIFY_APARTMENT_ID), None
+        )
+        if notify_apt is not None:
+            newly_blocked = find_newly_blocked_dates(previous_notify_days, notify_apt["days"])
+            if newly_blocked and os.environ.get("SMTP_USER") and os.environ.get("SMTP_PASSWORD"):
+                lines = [f"- {d['date']}" for d in newly_blocked]
+                body = (
+                    f"New blocked date(s) for {notify_apt['name']} ({notify_apt['url']}):\n\n"
+                    + "\n".join(lines)
+                )
+                try:
+                    send_email(
+                        subject=f"[Availability Tracker] {len(newly_blocked)} new blocked date(s)",
+                        body=body,
+                        to_addr=NOTIFY_TO_ADDR,
+                    )
+                except Exception as e:  # noqa: BLE001
+                    # Never let a notification failure break the scrape/commit pipeline.
+                    print(f"Failed to send notification email: {e}")
 
     latest_path = DATA_DIR / "latest.json"
     latest_path.write_text(json.dumps(aggregated, ensure_ascii=False, indent=2), encoding="utf-8")
