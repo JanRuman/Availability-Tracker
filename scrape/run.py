@@ -4,7 +4,7 @@ import json
 import os
 import re
 from dataclasses import asdict
-from datetime import date
+from datetime import date, datetime, timezone
 from pathlib import Path
 
 from bs4 import BeautifulSoup
@@ -23,6 +23,11 @@ SNAPSHOT_DIR = DATA_DIR / "snapshots"
 # apartment name doesn't match the scraper's id, which comes from the URL).
 NOTIFY_APARTMENT_ID = "24"
 NOTIFY_TO_ADDR = "ruman.ffi@gmail.com"
+
+# Snapshot filenames are either a plain date (older, one-run-per-day history)
+# or a date + time-of-day (from multiple runs per day onward). No colon, so
+# the filename stays valid on Windows too.
+SNAPSHOT_STEM_RE = re.compile(r"^\d{4}-\d{2}-\d{2}(T\d{4})?$")
 
 
 def _safe_mkdir(p: Path) -> None:
@@ -74,8 +79,10 @@ def run() -> Path:
     if limit and limit.isdigit():
         apartments = apartments[: int(limit)]
 
-    run_date = os.environ.get("RUN_DATE") or date.today().isoformat()
-    snapshot_path = SNAPSHOT_DIR / f"{run_date}.json"
+    now_utc = datetime.now(timezone.utc)
+    run_date = os.environ.get("RUN_DATE") or now_utc.date().isoformat()
+    run_timestamp = os.environ.get("RUN_TIMESTAMP") or now_utc.strftime("%Y-%m-%dT%H%M")
+    snapshot_path = SNAPSHOT_DIR / f"{run_timestamp}.json"
 
     _safe_mkdir(SNAPSHOT_DIR)
 
@@ -107,7 +114,7 @@ def run() -> Path:
     # latest.json always contains the union of known days per apartment,
     # with the most recent snapshot winning if the same date appears multiple times.
     all_snapshot_paths = sorted(
-        (p for p in SNAPSHOT_DIR.glob("*.json") if re.match(r"^\d{4}-\d{2}-\d{2}\.json$", p.name)),
+        (p for p in SNAPSHOT_DIR.glob("*.json") if SNAPSHOT_STEM_RE.match(p.stem)),
         key=lambda p: p.stem,
     )
 
@@ -212,7 +219,7 @@ def run() -> Path:
 
     # Update snapshot index for the static viewer.
     snapshots = sorted(
-        (p.stem for p in SNAPSHOT_DIR.glob("*.json") if re.match(r"^\d{4}-\d{2}-\d{2}$", p.stem)),
+        (p.stem for p in SNAPSHOT_DIR.glob("*.json") if SNAPSHOT_STEM_RE.match(p.stem)),
         reverse=True,
     )
     index_path = DATA_DIR / "index.json"

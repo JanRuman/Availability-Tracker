@@ -35,6 +35,12 @@ function pad2(n) {
   return String(n).padStart(2, "0");
 }
 
+function formatSnapshotLabel(stem) {
+  const m = stem.match(/^(\d{4}-\d{2}-\d{2})T(\d{2})(\d{2})$/);
+  if (!m) return stem;
+  return `${m[1]} ${m[2]}:${m[3]}`;
+}
+
 function ymFromIso(iso) {
   return iso.slice(0, 7); // YYYY-MM
 }
@@ -197,7 +203,7 @@ async function init() {
   for (const s of idx.snapshots || []) {
     const opt = document.createElement("option");
     opt.value = s;
-    opt.textContent = s;
+    opt.textContent = formatSnapshotLabel(s);
     snapshotSel.appendChild(opt);
   }
 
