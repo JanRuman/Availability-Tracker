@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-07-23",
+  "run_date": "2026-07-24",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -35896,14 +35896,14 @@
         },
         {
           "date": "2026-07-24",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 125,
           "attempted_change": false
         },
         {
           "date": "2026-07-25",
           "status": "unavailable",
-          "price_eur": null,
+          "price_eur": 125,
           "attempted_change": false
         },
         {
@@ -50084,12 +50084,12 @@
           "date": "2026-07-23",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-07-24",
           "status": "unavailable",
-          "price_eur": 190,
+          "price_eur": null,
           "attempted_change": false
         },
         {
