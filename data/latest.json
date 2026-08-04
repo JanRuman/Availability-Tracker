@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-08-03",
+  "run_date": "2026-08-04",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -7028,12 +7028,12 @@
           "date": "2026-08-03",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-04",
           "status": "unavailable",
-          "price_eur": 125,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -19344,19 +19344,19 @@
         },
         {
           "date": "2026-08-27",
-          "status": "available",
-          "price_eur": 125,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-08-28",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 125,
           "attempted_change": false
         },
         {
           "date": "2026-08-29",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 125,
           "attempted_change": false
         },
@@ -45115,37 +45115,37 @@
         },
         {
           "date": "2026-08-18",
-          "status": "available",
-          "price_eur": 175,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-08-19",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 175,
           "attempted_change": false
         },
         {
           "date": "2026-08-20",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 175,
           "attempted_change": false
         },
         {
           "date": "2026-08-21",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 175,
           "attempted_change": false
         },
         {
           "date": "2026-08-22",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 175,
           "attempted_change": false
         },
         {
           "date": "2026-08-23",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 175,
           "attempted_change": false
         },
