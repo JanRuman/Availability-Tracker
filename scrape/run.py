@@ -12,7 +12,7 @@ from bs4 import BeautifulSoup
 from .apartments import discover_apartments
 from .calendar import parse_calendar_days
 from .http_client import HttpClient
-from .notify import find_newly_blocked_dates, send_email
+from .notify import find_newly_available_dates, find_newly_blocked_dates, send_email
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -198,15 +198,26 @@ def run() -> Path:
         )
         if notify_apt is not None:
             newly_blocked = find_newly_blocked_dates(previous_notify_days, notify_apt["days"])
-            if newly_blocked and os.environ.get("SMTP_USER") and os.environ.get("SMTP_PASSWORD"):
-                lines = [f"- {d['date']}" for d in newly_blocked]
+            newly_available = find_newly_available_dates(previous_notify_days, notify_apt["days"])
+            has_smtp = os.environ.get("SMTP_USER") and os.environ.get("SMTP_PASSWORD")
+            if (newly_blocked or newly_available) and has_smtp:
+                sections = []
+                subject_parts = []
+                if newly_blocked:
+                    lines = [f"- {d['date']}" for d in newly_blocked]
+                    sections.append("Newly blocked:\n" + "\n".join(lines))
+                    subject_parts.append(f"{len(newly_blocked)} newly blocked")
+                if newly_available:
+                    lines = [f"- {d['date']}" for d in newly_available]
+                    sections.append("Newly available:\n" + "\n".join(lines))
+                    subject_parts.append(f"{len(newly_available)} newly available")
                 body = (
-                    f"New blocked date(s) for {notify_apt['name']} ({notify_apt['url']}):\n\n"
-                    + "\n".join(lines)
+                    f"Availability changes for {notify_apt['name']} ({notify_apt['url']}):\n\n"
+                    + "\n\n".join(sections)
                 )
                 try:
                     send_email(
-                        subject=f"[Availability Tracker] {len(newly_blocked)} new blocked date(s)",
+                        subject=f"[Availability Tracker] {', '.join(subject_parts)}",
                         body=body,
                         to_addr=NOTIFY_TO_ADDR,
                     )

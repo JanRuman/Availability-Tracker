@@ -20,6 +20,23 @@ def find_newly_blocked_dates(old_days: dict[str, str], new_days: list[dict]) -> 
     ]
 
 
+def find_newly_available_dates(old_days: dict[str, str], new_days: list[dict]) -> list[dict]:
+    """
+    Returns entries from `new_days` whose status is "available" and were
+    previously recorded as "unavailable" (i.e. a booking freed up).
+
+    Unlike find_newly_blocked_dates, a date with no prior record at all is
+    NOT included here: as the site's calendar window rolls forward, brand
+    new dates constantly enter view already available, and that's not a
+    freed-up booking worth alerting on.
+    """
+    return [
+        day
+        for day in new_days
+        if day.get("status") == "available" and old_days.get(day.get("date")) == "unavailable"
+    ]
+
+
 def send_email(subject: str, body: str, to_addr: str) -> None:
     host = os.environ.get("SMTP_HOST", "smtp.gmail.com")
     port = int(os.environ.get("SMTP_PORT", "465"))
