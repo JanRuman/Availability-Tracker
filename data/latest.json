@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-08-22",
+  "run_date": "2026-08-23",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -13229,7 +13229,7 @@
           "date": "2026-08-22",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-23",
@@ -35548,7 +35548,7 @@
           "date": "2026-08-22",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-23",
@@ -37577,7 +37577,7 @@
           "date": "2026-08-22",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-23",
@@ -39606,12 +39606,12 @@
           "date": "2026-08-22",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-23",
           "status": "unavailable",
-          "price_eur": 125,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -55286,12 +55286,12 @@
           "date": "2026-08-22",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-23",
           "status": "unavailable",
-          "price_eur": 190,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -57315,12 +57315,12 @@
           "date": "2026-08-22",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-23",
           "status": "unavailable",
-          "price_eur": 0,
+          "price_eur": null,
           "attempted_change": false
         },
         {
