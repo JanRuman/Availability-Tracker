@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-08-25",
+  "run_date": "2026-08-26",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -5131,12 +5131,12 @@
           "date": "2026-08-25",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-26",
           "status": "unavailable",
-          "price_eur": 125,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -19334,7 +19334,7 @@
           "date": "2026-08-25",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-26",
@@ -33537,12 +33537,12 @@
           "date": "2026-08-25",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-26",
           "status": "unavailable",
-          "price_eur": 195,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -53327,25 +53327,25 @@
         },
         {
           "date": "2026-09-03",
-          "status": "available",
-          "price_eur": 170,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-09-04",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 170,
           "attempted_change": false
         },
         {
           "date": "2026-09-05",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 170,
           "attempted_change": false
         },
         {
           "date": "2026-09-06",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 170,
           "attempted_change": false
         },
