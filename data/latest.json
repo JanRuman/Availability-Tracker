@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-08-29",
+  "run_date": "2026-08-30",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -3126,7 +3126,7 @@
           "date": "2026-08-29",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-30",
@@ -33561,7 +33561,7 @@
           "date": "2026-08-29",
           "status": "available",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-30",
@@ -47282,13 +47282,13 @@
         },
         {
           "date": "2026-09-10",
-          "status": "available",
-          "price_eur": 195,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-09-11",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 195,
           "attempted_change": false
         },
@@ -53299,7 +53299,7 @@
           "date": "2026-08-29",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-30",
@@ -59386,7 +59386,7 @@
           "date": "2026-08-29",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-08-30",
