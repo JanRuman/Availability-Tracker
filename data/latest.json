@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-09-02",
+  "run_date": "2026-09-03",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -1203,19 +1203,19 @@
         },
         {
           "date": "2026-09-16",
-          "status": "available",
-          "price_eur": 112,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-09-17",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 112,
           "attempted_change": false
         },
         {
           "date": "2026-09-18",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 112,
           "attempted_change": false
         },
@@ -6455,37 +6455,37 @@
         },
         {
           "date": "2027-02-06",
-          "status": "available",
-          "price_eur": 164,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2027-02-07",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2027-02-08",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2027-02-09",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2027-02-10",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2027-02-11",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
@@ -18697,12 +18697,12 @@
           "date": "2026-09-02",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-09-03",
           "status": "unavailable",
-          "price_eur": 125,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -20894,12 +20894,12 @@
           "date": "2026-09-02",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-09-03",
           "status": "unavailable",
-          "price_eur": 125,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -45061,7 +45061,7 @@
           "date": "2026-09-02",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-09-03",
@@ -59888,12 +59888,12 @@
           "date": "2026-09-02",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-09-03",
-          "status": "unavailable",
-          "price_eur": 0,
+          "status": "available",
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -62085,12 +62085,12 @@
           "date": "2026-09-02",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-09-03",
-          "status": "unavailable",
-          "price_eur": 0,
+          "status": "available",
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -64282,7 +64282,7 @@
           "date": "2026-09-02",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-09-03",
