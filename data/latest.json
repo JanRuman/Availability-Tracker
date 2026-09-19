@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-09-18",
+  "run_date": "2026-09-19",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -23187,7 +23187,7 @@
           "date": "2026-09-18",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-09-19",
@@ -57787,7 +57787,7 @@
           "date": "2026-09-18",
           "status": "unavailable",
           "price_eur": null,
-          "attempted_change": false
+          "attempted_change": true
         },
         {
           "date": "2026-09-19",
