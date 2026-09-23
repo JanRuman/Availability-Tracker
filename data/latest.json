@@ -4306,25 +4306,25 @@
         },
         {
           "date": "2027-02-14",
-          "status": "available",
-          "price_eur": 164,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2027-02-15",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2027-02-16",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2027-02-17",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
@@ -15327,37 +15327,37 @@
         },
         {
           "date": "2027-02-20",
-          "status": "available",
-          "price_eur": 152,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2027-02-21",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 152,
           "attempted_change": false
         },
         {
           "date": "2027-02-22",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 152,
           "attempted_change": false
         },
         {
           "date": "2027-02-23",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 152,
           "attempted_change": false
         },
         {
           "date": "2027-02-24",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 152,
           "attempted_change": false
         },
         {
           "date": "2027-02-25",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 152,
           "attempted_change": false
         },
