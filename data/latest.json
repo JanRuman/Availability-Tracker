@@ -1269,31 +1269,31 @@
         },
         {
           "date": "2026-09-27",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-09-28",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 112,
           "attempted_change": false
         },
         {
           "date": "2026-09-29",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 112,
           "attempted_change": false
         },
         {
           "date": "2026-09-30",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 112,
           "attempted_change": false
         },
         {
           "date": "2026-10-01",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 112,
           "attempted_change": false
         },
