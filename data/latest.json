@@ -32746,50 +32746,50 @@
         },
         {
           "date": "2026-12-19",
-          "status": "unavailable",
-          "price_eur": null,
+          "status": "available",
+          "price_eur": 144,
           "attempted_change": false
         },
         {
           "date": "2026-12-20",
-          "status": "unavailable",
+          "status": "available",
           "price_eur": 144,
           "attempted_change": false
         },
         {
           "date": "2026-12-21",
-          "status": "unavailable",
+          "status": "available",
           "price_eur": 144,
           "attempted_change": false
         },
         {
           "date": "2026-12-22",
-          "status": "unavailable",
+          "status": "available",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2026-12-23",
-          "status": "unavailable",
+          "status": "available",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2026-12-24",
-          "status": "unavailable",
+          "status": "available",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2026-12-25",
-          "status": "unavailable",
+          "status": "available",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2026-12-26",
           "status": "unavailable",
-          "price_eur": 164,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -62832,13 +62832,13 @@
         {
           "date": "2026-10-23",
           "status": "available",
-          "price_eur": 160,
+          "price_eur": 170,
           "attempted_change": false
         },
         {
           "date": "2026-10-24",
           "status": "available",
-          "price_eur": 160,
+          "price_eur": 170,
           "attempted_change": false
         },
         {
@@ -62874,13 +62874,13 @@
         {
           "date": "2026-10-30",
           "status": "available",
-          "price_eur": 160,
+          "price_eur": 170,
           "attempted_change": false
         },
         {
           "date": "2026-10-31",
           "status": "available",
-          "price_eur": 160,
+          "price_eur": 170,
           "attempted_change": false
         },
         {
@@ -65197,7 +65197,7 @@
         {
           "date": "2026-10-20",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": 120,
           "attempted_change": false
         },
         {
