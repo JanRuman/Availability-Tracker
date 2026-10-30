@@ -34991,19 +34991,19 @@
         },
         {
           "date": "2026-11-26",
-          "status": "available",
-          "price_eur": 156,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-11-27",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 156,
           "attempted_change": false
         },
         {
           "date": "2026-11-28",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 156,
           "attempted_change": false
         },
@@ -46906,19 +46906,19 @@
         },
         {
           "date": "2026-11-26",
-          "status": "available",
-          "price_eur": 100,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-11-27",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 100,
           "attempted_change": false
         },
         {
           "date": "2026-11-28",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 100,
           "attempted_change": false
         },
