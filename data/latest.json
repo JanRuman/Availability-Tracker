@@ -35285,19 +35285,19 @@
         },
         {
           "date": "2027-01-14",
-          "status": "available",
-          "price_eur": 156,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2027-01-15",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 156,
           "attempted_change": false
         },
         {
           "date": "2027-01-16",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 156,
           "attempted_change": false
         },
