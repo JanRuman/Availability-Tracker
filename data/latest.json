@@ -50896,19 +50896,19 @@
         },
         {
           "date": "2027-03-01",
-          "status": "available",
-          "price_eur": 164,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2027-03-02",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
         {
           "date": "2027-03-03",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 164,
           "attempted_change": false
         },
