@@ -1,5 +1,5 @@
 {
-  "run_date": "2026-11-18",
+  "run_date": "2026-11-19",
   "source": "https://praga.at/apartmany/",
   "apartments": [
     {
@@ -1588,7 +1588,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 112,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -1731,19 +1731,19 @@
         },
         {
           "date": "2026-12-13",
-          "status": "available",
-          "price_eur": 112,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-12-14",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 112,
           "attempted_change": false
         },
         {
           "date": "2026-12-15",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 112,
           "attempted_change": false
         },
@@ -4151,7 +4151,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -6714,7 +6714,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -9277,7 +9277,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -11840,7 +11840,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 112,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -14403,7 +14403,7 @@
         {
           "date": "2026-11-19",
           "status": "unavailable",
-          "price_eur": 112,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -16966,7 +16966,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 112,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -19529,7 +19529,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 166,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -22092,7 +22092,7 @@
         {
           "date": "2026-11-19",
           "status": "unavailable",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -24655,7 +24655,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -27217,14 +27217,14 @@
         },
         {
           "date": "2026-11-19",
-          "status": "available",
-          "price_eur": 100,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2026-11-20",
-          "status": "available",
-          "price_eur": null,
+          "status": "unavailable",
+          "price_eur": 100,
           "attempted_change": false
         },
         {
@@ -29781,7 +29781,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -32344,7 +32344,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 175,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -34907,7 +34907,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -37469,8 +37469,8 @@
         },
         {
           "date": "2026-11-19",
-          "status": "available",
-          "price_eur": 156,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -40033,7 +40033,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -42596,7 +42596,7 @@
         {
           "date": "2026-11-19",
           "status": "unavailable",
-          "price_eur": 220,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -45159,7 +45159,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 175,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -47722,7 +47722,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -50285,7 +50285,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -52848,7 +52848,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -54859,7 +54859,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 155,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -57422,7 +57422,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 175,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -59984,8 +59984,8 @@
         },
         {
           "date": "2026-11-19",
-          "status": "available",
-          "price_eur": 220,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -62548,7 +62548,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 112,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -65111,7 +65111,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 120,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -67674,7 +67674,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 160,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -70237,7 +70237,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 90,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -70572,26 +70572,26 @@
         },
         {
           "date": "2027-01-14",
-          "status": "available",
-          "price_eur": 180,
+          "status": "unavailable",
+          "price_eur": null,
           "attempted_change": false
         },
         {
           "date": "2027-01-15",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 190,
           "attempted_change": false
         },
         {
           "date": "2027-01-16",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 190,
           "attempted_change": false
         },
         {
           "date": "2027-01-17",
           "status": "unavailable",
-          "price_eur": null,
+          "price_eur": 180,
           "attempted_change": false
         },
         {
@@ -72800,7 +72800,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -75363,7 +75363,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 900,
+          "price_eur": null,
           "attempted_change": false
         },
         {
@@ -77194,7 +77194,7 @@
         {
           "date": "2026-11-19",
           "status": "available",
-          "price_eur": 100,
+          "price_eur": null,
           "attempted_change": false
         },
         {
