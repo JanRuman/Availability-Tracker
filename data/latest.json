@@ -68453,31 +68453,31 @@
         },
         {
           "date": "2027-03-29",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 170,
           "attempted_change": false
         },
         {
           "date": "2027-03-30",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 140,
           "attempted_change": false
         },
         {
           "date": "2027-03-31",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 170,
           "attempted_change": false
         },
         {
           "date": "2027-04-01",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 170,
           "attempted_change": false
         },
         {
           "date": "2027-04-02",
-          "status": "available",
+          "status": "unavailable",
           "price_eur": 225,
           "attempted_change": false
         },
